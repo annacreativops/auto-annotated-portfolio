@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: creativops - Transformation by design
+    title: creativops
     subtitle: transformation by design
     styles:
       self:
