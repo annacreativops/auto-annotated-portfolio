@@ -34,6 +34,7 @@ sections:
         borderRadius: x-large
         borderStyle: solid
         borderWidth: 8
+        borderColor: border-(--theme-primary)
     type: HeroSection
     actions: []
   - colors: colors-f
