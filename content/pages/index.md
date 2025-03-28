@@ -33,7 +33,7 @@ sections:
         textAlign: center
         borderRadius: none
         borderStyle: double
-        borderWidth: 8
+        borderWidth: 3
         borderColor: border-(--theme-dark)
     type: HeroSection
     actions: []
