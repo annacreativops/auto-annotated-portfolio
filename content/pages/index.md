@@ -31,6 +31,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: center
+        borderRadius: small
     type: HeroSection
     actions: []
   - colors: colors-f
