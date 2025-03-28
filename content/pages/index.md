@@ -1,25 +1,20 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 46
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: creativops
+    subtitle: transformation by design
     styles:
       self:
         height: auto
@@ -95,7 +90,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got thoughts? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -124,7 +119,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Note
           isRequired: true
           width: 1/2
           type: TextFormControl
@@ -153,4 +148,6 @@ sections:
           - pl-4
         flexDirection: row
         textAlign: left
+    text: |
+      Let's chat
 ---
