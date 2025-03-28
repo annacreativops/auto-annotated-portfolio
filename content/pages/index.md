@@ -119,7 +119,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Note
           isRequired: true
           width: 1/2
           type: TextFormControl
