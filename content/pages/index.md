@@ -57,7 +57,7 @@ sections:
       type: ImageBlock
       url: /images/Anna me portrait.jpg
       altText: Anna Roberts
-      caption: Caption of the image
+      caption: 'Hi, I''m Anna'
       elementId: ''
     colors: colors-c
     backgroundSize: full
