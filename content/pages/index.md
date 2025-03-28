@@ -56,7 +56,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Anna me portrait.jpg
-      altText: Hero image
+      altText: Anna Roberts
       caption: Caption of the image
       elementId: ''
     colors: colors-c
