@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Anna me portrait.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
