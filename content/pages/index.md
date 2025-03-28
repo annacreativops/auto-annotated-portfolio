@@ -31,7 +31,7 @@ sections:
           - pr-4
         flexDirection: row-reverse
         textAlign: center
-        borderRadius: none
+        borderRadius: x-large
         borderStyle: solid
         borderWidth: 8
     type: HeroSection
