@@ -10,7 +10,6 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Gemini_Generated_Image_8dzdjy8dzdjy8dzd.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
